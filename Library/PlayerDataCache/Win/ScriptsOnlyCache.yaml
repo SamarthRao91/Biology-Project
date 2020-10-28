@@ -66,25 +66,25 @@ ScriptsOnlyBuild:
     - Class: 109
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 11170}
+      Script: {instanceID: 11194}
     - Class: 114
-      Script: {instanceID: 12172}
+      Script: {instanceID: 12200}
     - Class: 114
-      Script: {instanceID: 12224}
+      Script: {instanceID: 12252}
     - Class: 114
-      Script: {instanceID: 13218}
+      Script: {instanceID: 12788}
     - Class: 114
-      Script: {instanceID: 13236}
+      Script: {instanceID: 13252}
     - Class: 114
-      Script: {instanceID: 13530}
+      Script: {instanceID: 13270}
     - Class: 114
-      Script: {instanceID: 13630}
+      Script: {instanceID: 13564}
     - Class: 114
-      Script: {instanceID: 13904}
+      Script: {instanceID: 13664}
     - Class: 114
-      Script: {instanceID: 14244}
+      Script: {instanceID: 13938}
     - Class: 114
-      Script: {instanceID: 25198}
+      Script: {instanceID: 14280}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -123,7 +123,7 @@ ScriptsOnlyBuild:
     - Class: 104
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 25390}
+      Script: {instanceID: 13958}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 157
@@ -154,7 +154,7 @@ ScriptsOnlyBuild:
     - Class: 104
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 25390}
+      Script: {instanceID: 13958}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 157
@@ -185,7 +185,7 @@ ScriptsOnlyBuild:
     - Class: 104
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 25390}
+      Script: {instanceID: 13958}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 157
@@ -214,17 +214,17 @@ ScriptsOnlyBuild:
     - Class: 104
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 11170}
+      Script: {instanceID: 11194}
     - Class: 114
-      Script: {instanceID: 12172}
+      Script: {instanceID: 12200}
     - Class: 114
-      Script: {instanceID: 13218}
+      Script: {instanceID: 13252}
     - Class: 114
-      Script: {instanceID: 13530}
+      Script: {instanceID: 13564}
     - Class: 114
-      Script: {instanceID: 13630}
+      Script: {instanceID: 13664}
     - Class: 114
-      Script: {instanceID: 14244}
+      Script: {instanceID: 14280}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -267,29 +267,29 @@ ScriptsOnlyBuild:
     - Class: 104
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 11170}
+      Script: {instanceID: 11194}
     - Class: 114
-      Script: {instanceID: 11458}
+      Script: {instanceID: 11288}
     - Class: 114
-      Script: {instanceID: 12172}
+      Script: {instanceID: 11484}
     - Class: 114
-      Script: {instanceID: 12258}
+      Script: {instanceID: 11748}
     - Class: 114
-      Script: {instanceID: 12554}
+      Script: {instanceID: 12200}
     - Class: 114
-      Script: {instanceID: 13630}
+      Script: {instanceID: 12286}
     - Class: 114
-      Script: {instanceID: 14028}
+      Script: {instanceID: 12582}
     - Class: 114
-      Script: {instanceID: 14128}
+      Script: {instanceID: 13664}
     - Class: 114
-      Script: {instanceID: 14244}
+      Script: {instanceID: 14064}
     - Class: 114
-      Script: {instanceID: 14284}
+      Script: {instanceID: 14164}
     - Class: 114
-      Script: {instanceID: 16024}
+      Script: {instanceID: 14280}
     - Class: 114
-      Script: {instanceID: 16950}
+      Script: {instanceID: 14320}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -326,25 +326,25 @@ ScriptsOnlyBuild:
     - Class: 104
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 11170}
+      Script: {instanceID: 11194}
     - Class: 114
-      Script: {instanceID: 11458}
+      Script: {instanceID: 11484}
     - Class: 114
-      Script: {instanceID: 11512}
+      Script: {instanceID: 11538}
     - Class: 114
-      Script: {instanceID: 12172}
+      Script: {instanceID: 12200}
     - Class: 114
-      Script: {instanceID: 12874}
+      Script: {instanceID: 12758}
     - Class: 114
-      Script: {instanceID: 13162}
+      Script: {instanceID: 12812}
     - Class: 114
-      Script: {instanceID: 13630}
+      Script: {instanceID: 12908}
     - Class: 114
-      Script: {instanceID: 14244}
+      Script: {instanceID: 13196}
     - Class: 114
-      Script: {instanceID: 17282}
+      Script: {instanceID: 13664}
     - Class: 114
-      Script: {instanceID: 18516}
+      Script: {instanceID: 14280}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -388,6 +388,12 @@ ScriptsOnlyBuild:
     assemblyName: Unity.TextMeshPro.dll
     namespaceName: TMPro
     className: TMP_Dropdown
+  - hash:
+      serializedVersion: 2
+      Hash: 3fd24d107295dbc7aa5ef9045b9c4e63
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: DestroyPlayer
   - hash:
       serializedVersion: 2
       Hash: e7a73f5f78ba6445195ec23b74a1ce2d
@@ -490,6 +496,12 @@ ScriptsOnlyBuild:
     assemblyName: UnityEngine.UI.dll
     namespaceName: UnityEngine.EventSystems
     className: PhysicsRaycaster
+  - hash:
+      serializedVersion: 2
+      Hash: bfdf060b2603148594c3c06838d1c1db
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: DestroyEnemy
   - hash:
       serializedVersion: 2
       Hash: bd3cf68c8964d3c66d1c43f4f98508c9
@@ -636,10 +648,28 @@ ScriptsOnlyBuild:
     className: TMP_SpriteAnimator
   - hash:
       serializedVersion: 2
+      Hash: e313f132b3a59e4f8cb3417b1aac43bc
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: PowerUps
+  - hash:
+      serializedVersion: 2
       Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
     assemblyName: UnityEngine.TestRunner.dll
     namespaceName: UnityEngine.TestTools.TestRunner.Callbacks
     className: RemoteTestResultSender
+  - hash:
+      serializedVersion: 2
+      Hash: 3fd24d107295dbc7aa5ef9045b9c4e63
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: OnClickedDef
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: GetInput
   - hash:
       serializedVersion: 2
       Hash: 4fd8bf02e3089425d3502e26c44ba31a
@@ -762,6 +792,12 @@ ScriptsOnlyBuild:
     className: TMP_StyleSheet
   - hash:
       serializedVersion: 2
+      Hash: 3fd24d107295dbc7aa5ef9045b9c4e63
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: ContinueOnClick
+  - hash:
+      serializedVersion: 2
       Hash: 0f5b2aa164b0293e27d50244514c6a46
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
@@ -874,42 +910,6 @@ ScriptsOnlyBuild:
     assemblyName: Unity.Timeline.dll
     namespaceName: UnityEngine.Timeline
     className: PlayableTrack
-  - hash:
-      serializedVersion: 2
-      Hash: bfdf060b2603148594c3c06838d1c1db
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: DestroyEnemy
-  - hash:
-      serializedVersion: 2
-      Hash: 3fd24d107295dbc7aa5ef9045b9c4e63
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: DestroyPlayer
-  - hash:
-      serializedVersion: 2
-      Hash: e313f132b3a59e4f8cb3417b1aac43bc
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: PowerUps
-  - hash:
-      serializedVersion: 2
-      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: GetInput
-  - hash:
-      serializedVersion: 2
-      Hash: 3fd24d107295dbc7aa5ef9045b9c4e63
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: OnClickedDef
-  - hash:
-      serializedVersion: 2
-      Hash: 3fd24d107295dbc7aa5ef9045b9c4e63
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: ContinueOnClick
   platform: 5
   scenePathNames:
   - Assets/Scenes/DefScene.unity
@@ -919,4 +919,4 @@ ScriptsOnlyBuild:
   - Assets/Scenes/DefSceneTwo.unity
   - Assets/Scenes/DefSceneThree.unity
   - Assets/Scenes/GameOver.unity
-  playerPath: C:/Users/raosa/Desktop/Biology Project/Builds/Windows1/Biology Project.exe
+  playerPath: C:/Users/raosa/Desktop/Biology Project/Builds/Windows4/Biology Project.exe
